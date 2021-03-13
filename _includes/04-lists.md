@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. apple
+    1.1 green
+    1.2 red
+
+* fruits
+* leaves
+* flowers
